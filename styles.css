@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background: linear-gradient(to bottom, #ff9a9e, #fad0c4);
+    overflow: hidden;
+    font-family: 'Arial', sans-serif;
+    color: white;
+}
+
+canvas {
+    display: block;
+}
+
+.merry-christmas {
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
+    text-align: center;
+    font-size: 2.5em;
+    color: white;
+    text-shadow: 2px 2px 8px #ff4081;
+}
